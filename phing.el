@@ -38,6 +38,8 @@
 
 ;; Dependencies
 
+(require 'xml)
+
 ;; Configuration
 
 (defgroup phing nil
