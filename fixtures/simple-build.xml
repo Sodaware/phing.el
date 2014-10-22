@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<project name="simple-build" default="test:all" basedir=".">
+  
+  <target name="target:one" description="Description of target one">
+  </target>
+  
+  <target name="target:two" description="Description of target two">
+  </target>
+  
+  <target name="target:three" description="Description of target three">
+  </target>
+  
+</project>
