@@ -31,7 +31,7 @@
 
 ;;; Commentary:
 
-;; phing.el provides way to interact with Phing, a PHP built tool based
+;; phing.el provides way to interact with Phing, a PHP build tool based
 ;; on Apache Ant.
 
 ;;; Code:
