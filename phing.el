@@ -97,7 +97,7 @@
         curfd
       (if (and (not (string= (file-truename directory) updir))
                (< (length updir) (length (file-truename directory))))
-          (phing-find-file-upwards updir file)
+          (phing--find-file-upwards updir file)
         nil))))
 
 
